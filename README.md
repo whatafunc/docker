@@ -1,4 +1,4 @@
-# docker (17.12.1+)
+# docker (17.12.1+) for Cortex cryptocurrency
 
 ## Docker install
 https://github.com/ucwong/docker
